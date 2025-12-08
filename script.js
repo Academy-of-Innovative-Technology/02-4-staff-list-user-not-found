@@ -31,7 +31,6 @@ let newTeaceh = Admin.shift()
 let newT = Admin.push("Drysdale")
 let newt = Admin.push("Simpkins")
 
-let new3 = Office.shoft
 
 
 
