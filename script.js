@@ -24,9 +24,12 @@ const STAFF = [Admin, Office, Counselor, CTE, History, Maths, Gym, Dean, Languag
 ////////// MAKE YOUR UPDATES WITHIN THIS SECTION //// 
 
 
-
-
-
+let newTeacher = Admin.pop()
+let newTeachers = Admin.pop()
+let newTeach = Admin.shift()
+let newTeaceh = Admin.shift()
+let newT = Admin.push("Drysdale")
+let newt = Admin.push("Simpkins")
 
 
 
