@@ -6,7 +6,7 @@ let
 	CTE = ["Alphonse", "Donahue", "Santana", "Vaduva", "Woods", "Shams", "Urena"],
 	History = ["McQuilkin", "Amell", "Hablenko", "Schmidt", "Headlam", "Lucas", "Smith"],
 	Counselor = ["Grant", "Weaver"],
-	Maths = ["Freck", , "Ventimiglia"],
+	Maths = ["Freck", "Ventimiglia"],
 	Gym = ["Banta", "Proper", "Moll", "Murray"],
 	Dean = ["Frazier", "Vaduva", "Mollison"],
 	Language = ["Levystone", "Ortiz", "Stratman", "Vaduva", "Streeter", "Weaver"],
@@ -37,8 +37,26 @@ let t4= Office.push("Valentine");
 let t9= Office.push("Tirado");
 
 let math= Maths.pop();
+let M= Maths.push("Koelsch");
+let MM= Maths.push("Minto");
+let MMM= Maths.push("Forth");
+let MMMM= Maths.push("Wong");
+let MMMMM= Maths.push("Steele");
+
+let D =Dean.shift();
+let DD =Dean.shift();
+let Dj=Dean.push("Frazier");
+
+let S=Science.shift();
+let SS=Science.shift();
+let SSS=Science.shift();
+let SSSS=Science.shift();
+let Sssss=Science.push("Kabir");
+let Ssssss=Science.push("Lynch");
+let Sssssss=Science.push("Davies");
 
 
+let E
 
 
 
