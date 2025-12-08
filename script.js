@@ -36,7 +36,7 @@ let to= Office.push("Martinez");
 let t4= Office.push("Valentine");
 let t9= Office.push("Tirado");
 
-
+let math= Maths.pop();
 
 
 
