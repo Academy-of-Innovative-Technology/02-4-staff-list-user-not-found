@@ -4,7 +4,7 @@
 let
 	Admin = ["Fowlkes", "Lynch", "Woodham", "Stahl", "Peter"],
 	CTE = ["Alphonse", "Donahue", "Santana", "Vaduva", "Woods", "Shams", "Urena"],
-	History = ["McQuilkin", "Amell", "Hablenko", "Schmidt", "Headlem", "Lucas", "Smith"],
+	History = ["McQuilkin", "Amell", "Hablenko", "Schmidt", "Headlam", "Lucas", "Smith"],
 	Counselor = ["Grant", "Weaver"],
 	Maths = ["Freck", , "Ventimiglia"],
 	Gym = ["Banta", "Proper", "Moll", "Murray"],
