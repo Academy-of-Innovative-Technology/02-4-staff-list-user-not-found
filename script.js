@@ -34,8 +34,7 @@ let newt = Admin.push("Simpkins")
 let te = Office.pop()
 let to= Office.push("Martinez");
 let t4= Office.push("Valentine");
-
-
+let t9= Office.push("Tirado");
 
 
 
