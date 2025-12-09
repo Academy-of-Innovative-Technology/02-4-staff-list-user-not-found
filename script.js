@@ -36,6 +36,26 @@ let to= Office.push("Martinez");
 let t4= Office.push("Valentine");
 let t9= Office.push("Tirado");
 
+let Y= Counselor.shift();
+let YY= Counselor.shift();
+
+let xx= History.shift();
+let xxx= History.shift();
+let xxxx= History.shift();
+let xxxxx= History.shift();
+let xxxxxx= History.shift();
+let xxxxxxx= History.shift();
+let xxxxxxxx= History.shift();
+let xxxxxxxxx= History.shift();
+let xxxxxxxxxx= History.shift();
+
+let kkkkkkk= Language.shift();
+let kkkkkk= Language.shift();
+let kkkkk= Language.shift();
+let kkkk= Language.shift();
+let kk= Language.shift();
+let kkk= Language.shift();
+
 let math= Maths.pop();
 let M= Maths.push("Koelsch");
 let MM= Maths.push("Minto");
@@ -91,9 +111,14 @@ let TE= CTE.push("Shams");
 let TEE= CTE.push("Pelzer");
 let TEEE= CTE.push("Alphones");
 let TEEEE= CTE.push("Russell");
+let TEEEEe= CTE.push("Pierre ");
+
+
+let p =Support.push("David");
 
 
 
+let z= SSC.shift();
 
 
 /////////////////////////////////////////////////////
