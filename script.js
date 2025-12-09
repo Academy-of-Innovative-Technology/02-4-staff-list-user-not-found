@@ -38,6 +38,8 @@ let t9= Office.push("Tirado");
 
 let Y= Counselor.shift();
 let YY= Counselor.shift();
+let YYY= Counselor.push("Cooper");
+let YYYY= Counselor.push("Molina");
 
 let xx= History.shift();
 let xxx= History.shift();
@@ -55,6 +57,10 @@ let kkkkk= Language.shift();
 let kkkk= Language.shift();
 let kk= Language.shift();
 let kkk= Language.shift();
+let kkk2= Language.push("Nowakowski");
+let kkk3= Language.push("Mott");
+let kkk4= Language.push("Vallejo");
+let kkk5= Language.push("Weaver");
 
 let math= Maths.pop();
 let M= Maths.push("Koelsch");
@@ -75,7 +81,7 @@ let Sssss=Science.push("Kabir");
 let Ssssss=Science.push("Lynch");
 let Sssssss=Science.push("Davies");
 let SssssssS=Science.push("Boswell");
-
+let SssssssSS=Science.push("Jorge");
 
 let E= English.shift();
 let EE= English.shift();
@@ -88,6 +94,7 @@ let ee = English.push("Grant");
 let eee = English.push("Griszell");
 let eeee = English.push("Tavares");
 let eeeee = English.push("Gomez");
+let eeeeee = English.push("Jorge");
 
 
 
@@ -112,11 +119,13 @@ let TEE= CTE.push("Pelzer");
 let TEEE= CTE.push("Alphones");
 let TEEEE= CTE.push("Russell");
 let TEEEEe= CTE.push("Pierre ");
-
+let TEEEEee= CTE.push("Rahimi ");
+let TEEEEeee= CTE.push("Ramsawak");
 
 let p =Support.push("David");
-
-
+let pp =Support.push("Ward");
+let pppp =Support.push("Belfon");
+let ppppp =Support.push("");
 
 let z= SSC.shift();
 
