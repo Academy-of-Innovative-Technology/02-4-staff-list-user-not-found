@@ -54,23 +54,43 @@ let SSSS=Science.shift();
 let Sssss=Science.push("Kabir");
 let Ssssss=Science.push("Lynch");
 let Sssssss=Science.push("Davies");
+let SssssssS=Science.push("Boswell");
 
 
-let E
+let E= English.shift();
+let EE= English.shift();
+let EEE= English.shift();
+let EEEE= English.shift();
+let EEEEE= English.shift();
+let EEEEEE= English.shift();
+let EEEEEEEE= English.shift();
+let ee = English.push("Grant");
+let eee = English.push("Griszell");
+let eeee = English.push("Tavares");
+let eeeee = English.push("Gomez");
 
 
 
 
+let G= Gym.shift();
+let GG= Gym.shift();
+let GGG= Gym.shift();
+let GGGG= Gym.shift();
+let GGGGGGG= Gym.push("Banta");
+let GGGGGGGG= Gym.push("Macalary");
 
 
-
-
-
-
-
-
-
-
+let CCC= CTE.shift();
+let CCCCC= CTE.shift();
+let CCCCCc= CTE.shift();
+let CCCCCcc= CTE.shift();
+let CCCCCcccccc= CTE.shift();
+let CCCCCc2= CTE.shift();
+let CCCCCc3= CTE.shift();
+let TE= CTE.push("Shams");
+let TEE= CTE.push("Pelzer");
+let TEEE= CTE.push("Alphones");
+let TEEEE= CTE.push("Russell");
 
 
 
