@@ -50,6 +50,16 @@ let xxxxxxx= History.shift();
 let xxxxxxxx= History.shift();
 let xxxxxxxxx= History.shift();
 let xxxxxxxxxx= History.shift();
+let x2=History.push("Amell");
+let x3=History.push("Sherman");
+let xx3=History.push("Headlam");
+let xxx3=History.push("Lucas");
+let xxxx3=History.push("Urena");
+let x4=History.push("Smith");
+let x5=History.push("Smith");
+
+
+
 
 let kkkkkkk= Language.shift();
 let kkkkkk= Language.shift();
@@ -128,7 +138,8 @@ let pppp =Support.push("Belfon");
 let ppppp =Support.push("");
 
 let z= SSC.shift();
-
+let zz=SSC.push("Ricky");
+let zzz=SSC.push("Tiffany");
 
 /////////////////////////////////////////////////////
 //////// DO NOT EDIT BELOW THIS LINE ////////////////
