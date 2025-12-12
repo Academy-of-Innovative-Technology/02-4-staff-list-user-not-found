@@ -14,9 +14,10 @@ let
 	English = ["Brown", "DelValle", "Duran", "Griszell", "King", "Fonrose", "Constant"],
 	Office = ["Verley"],
 	Support = ["Kabir", "Minto"],
-	SSC = ["Stephine"];
+	SSC = ["Stephine"],
+	Para=["", ];
 
-const STAFF = [Admin, Office, Counselor, CTE, History, Maths, Gym, Dean, Language, Science, English, Support, SSC];
+const STAFF = [Admin, Office, Counselor, CTE, History, Maths, Gym, Dean, Language, Science, English, Support, SSC, Para];
 
 //////// DO NOT EDIT ABOVE THIS LINE ////////////////
 /////////////////////////////////////////////////////
@@ -56,7 +57,7 @@ let xx3=History.push("Headlam");
 let xxx3=History.push("Lucas");
 let xxxx3=History.push("Urena");
 let x4=History.push("Smith");
-let x5=History.push("Smith");
+let x5=History.push("Rodriguez");
 
 
 
@@ -68,7 +69,6 @@ let kkkk= Language.shift();
 let kk= Language.shift();
 let kkk= Language.shift();
 let kkk2= Language.push("Nowakowski");
-let kkk3= Language.push("Mott");
 let kkk4= Language.push("Vallejo");
 let kkk5= Language.push("Weaver");
 
@@ -87,7 +87,6 @@ let S=Science.shift();
 let SS=Science.shift();
 let SSS=Science.shift();
 let SSSS=Science.shift();
-let Sssss=Science.push("Kabir");
 let Ssssss=Science.push("Lynch");
 let Sssssss=Science.push("Davies");
 let SssssssS=Science.push("Boswell");
@@ -131,15 +130,39 @@ let TEEEE= CTE.push("Russell");
 let TEEEEe= CTE.push("Pierre ");
 let TEEEEee= CTE.push("Rahimi ");
 let TEEEEeee= CTE.push("Ramsawak");
+let TEEEEeeee= CTE.push("Sullivan");
 
 let p =Support.push("David");
-let pp =Support.push("Ward");
 let pppp =Support.push("Belfon");
-let ppppp =Support.push("");
+let pppp1 =Support.push("Dawn");
+
+
 
 let z= SSC.shift();
 let zz=SSC.push("Ricky");
 let zzz=SSC.push("Tiffany");
+let zzzz=SSC.push("Anthony");
+let zzzzz=SSC.push("Eliza");
+let zzzzzz=SSC.push("Laurly");
+let zzzzzzzzzz=SSC.push("Shovely");
+let zzz2=SSC.push("Madelyn");
+let zzz3=SSC.push("Erik");
+let zzz4=SSC.push("Johonna");
+let zzz5=SSC.push("Samani");
+let zzz6=SSC.push("Laudelina");
+let zzz7=SSC.push("Falyne");
+let zzz8=SSC.push("Steven");
+let zzz10=SSC.push("Kia");
+
+
+let w=Para.push("Alabsi");
+let ww=Para.push("Akad");
+let www=Para.push("Colter");
+let wwww=Para.push("Shand");
+let wwwww=Para.push("Camilo");
+let wwwwww=Para.push("Nicholson");
+let wwwwwww=Para.push("Jigrant");
+let wwwwwwww=Para.push("Demauri");
 
 /////////////////////////////////////////////////////
 //////// DO NOT EDIT BELOW THIS LINE ////////////////
