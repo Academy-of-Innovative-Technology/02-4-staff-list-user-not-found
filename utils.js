@@ -2,7 +2,7 @@ function e(t, a){
     return a ? document.querySelectorAll(t) : document.querySelector(t);
 }
 
-const depts = ["Admin", "Office", "Counselor", "CTE", "History", "Math", "Gym", "Dean", "Language", "Science", "English", "Support", "Student Success Center", "Para"];
+const depts = ["Admin", "Office", "Counselor", "CTE", "History", "Math", "Gym", "Dean", "Language", "Science", "English", "Support", "Student Success Center", "Para", "Interns", "GudianceCounselor" ];
 
 
 function d(t, ctxt) {

@@ -15,9 +15,11 @@ let
 	Office = ["Verley"],
 	Support = ["Kabir", "Minto"],
 	SSC = ["Stephine"],
-	Para=["", ];
+	Para=[];
+	Interns=[];
+	GudianceCounselor=[];
 
-const STAFF = [Admin, Office, Counselor, CTE, History, Maths, Gym, Dean, Language, Science, English, Support, SSC, Para];
+const STAFF = [Admin, Office, Counselor, CTE, History, Maths, Gym, Dean, Language, Science, English, Support, SSC, Para, Interns, GudianceCounselor ];
 
 //////// DO NOT EDIT ABOVE THIS LINE ////////////////
 /////////////////////////////////////////////////////
@@ -36,11 +38,15 @@ let te = Office.pop()
 let to= Office.push("Martinez");
 let t4= Office.push("Valentine");
 let t9= Office.push("Tirado");
+let t10= Office.push("Swing");
+
+
+
 
 let Y= Counselor.shift();
 let YY= Counselor.shift();
 let YYY= Counselor.push("Cooper");
-let YYYY= Counselor.push("Molina");
+let YYYY= Counselor.push("Desroches");
 
 let xx= History.shift();
 let xxx= History.shift();
@@ -57,7 +63,7 @@ let xx3=History.push("Headlam");
 let xxx3=History.push("Lucas");
 let xxxx3=History.push("Urena");
 let x4=History.push("Smith");
-let x5=History.push("Rodriguez");
+
 
 
 
@@ -90,7 +96,6 @@ let SSSS=Science.shift();
 let Ssssss=Science.push("Lynch");
 let Sssssss=Science.push("Davies");
 let SssssssS=Science.push("Boswell");
-let SssssssSS=Science.push("Jorge");
 
 let E= English.shift();
 let EE= English.shift();
@@ -135,8 +140,8 @@ let TEEEEeeee= CTE.push("Sullivan");
 let p =Support.push("David");
 let pppp =Support.push("Belfon");
 let pppp1 =Support.push("Dawn");
-
-
+let x5=Support.push("Rodriguez");
+let x9=Support.push("Slater");
 
 let z= SSC.shift();
 let zz=SSC.push("Ricky");
@@ -156,13 +161,21 @@ let zzz10=SSC.push("Kia");
 
 
 let w=Para.push("Alabsi");
-let ww=Para.push("Akad");
+let ww=Para.push("Ahad");
 let www=Para.push("Colter");
 let wwww=Para.push("Shand");
 let wwwww=Para.push("Camilo");
 let wwwwww=Para.push("Nicholson");
-let wwwwwww=Para.push("Jigrant");
+let wwwwwww=Para.push("Jay");
 let wwwwwwww=Para.push("Demauri");
+let wwwwwwwww=Para.push("Diana");
+let wwwwwwwwww=Para.push("Nich");
+let wwwwwwwwwwww=Para.push("Alber");
+let wwwwwwwwwwwww=Para.push("Ward");
+
+let o2= GudianceCounselor.push("Monlina");
+let o1= Interns.push("Rachael");
+let o11= Interns.push("Krishe");
 
 /////////////////////////////////////////////////////
 //////// DO NOT EDIT BELOW THIS LINE ////////////////
